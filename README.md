@@ -5,7 +5,7 @@ A wave function collapse algorithm based terminal screensaver (inspired by pipes
 
 # Demo
 
-![pipes.psi Demo video](https://raw.githubusercontent.com/make-42/pipes.psi/main/GithubRepoAssets/timelapse.mp4)
+https://user-images.githubusercontent.com/17462236/176221434-c6e229e4-0fa6-4a21-8db1-2b7713993f23.mp4
 
 # Build
 
